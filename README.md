@@ -16,7 +16,7 @@ This repository documents my journey of improving SQL skills through practical p
 
 | Platform | Problems Solved | Topics Covered |
 |---|---:|---|
-| LeetCode SQL 50 | 0 | To be updated |
+| LeetCode SQL 50 | 5 | Basic filtering |
 | DataLemur | 0 | To be updated |
 | StrataScratch | 0 | To be updated |
 | HackerRank | 0 | To be updated |
