@@ -20,7 +20,7 @@ This repository documents my journey of improving SQL skills through practical p
 | DataLemur | 0 | To be updated |
 | StrataScratch | 0 | To be updated |
 | HackerRank | 0 | To be updated |
-| **Total** | **0** | |
+| **Total** | **5** | |
 
 *Progress will be updated as new solutions are added.*
 
